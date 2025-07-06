@@ -1,0 +1,33 @@
+Projects:
+-----------
+1. College Management System
+2. Restaurant Management System
+3. Library Management System
+4. Study Center Management System
+5. Hospital Management System
+6. Article Journal Management System 
+7. Internship Management System
+8. File Management System 
+9. Laboratory Management System
+10. Invoice Management System 
+11. Blood Bank Management System
+12. Vehicle Repair and Maintenance Management System 
+13. Shipping and Logistic Management System
+14. School Management System
+15. Tourism Management System
+16. Service Call Management System 
+17. Gym Management System
+18. Medical Store Management System
+19. Vehicle Parking Management System
+20. Event Management System
+21. Complaints Handling Management System
+22. Driving School Management System
+23. Employee Leave Management System
+24. Online Interview Management System
+25. Training Management System
+26. Laundry Shop Management System
+27. Courier Management System
+28. Dairy Farm Management System
+29. Beauty Parlour Management System
+30. Real Estate Property Management System
+31. Food Catering Services Management System
