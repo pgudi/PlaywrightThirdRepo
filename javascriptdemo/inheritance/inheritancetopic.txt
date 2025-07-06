@@ -1,0 +1,33 @@
+suppose HP has developed a basic calculator
+as follows:
+class BasicCalculator{
+    addition(){}
+    multiplication(){}
+    substraction(){}
+    division(){}
+}
+
+After developing the programs , they have deploed in server, 
+users start using the Basic Calcularor Application, after some years, HP decided
+to develop Scientific calculator
+
+class ScientificCalculator{
+    sin()
+    tan()
+    cos()
+}
+
+After deploying the scientific calculator, end users raised a concern that
+it does not have basic operations
+
+Now HP has two choice
+1. they can develop separately all basic functions
+2. they can extend
+
+Conculsion: inheritance provides code reuable
+
+Types of Inheritance:
+1. Simple Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+4. Hybrid Inheritance
